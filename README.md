@@ -1,0 +1,1 @@
+# .NETMAUI_NavigationIssueWithTabChange
